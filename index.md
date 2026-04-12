@@ -15,7 +15,7 @@ I work on explainable and trustworthy machine learning, with a focus on graph le
 
 ## About
 
-I am currently a Ph.D. student in Computer Science at Florida International University. My research lies at the intersection of explainable AI, graph machine learning, and time series intelligence. More broadly, I am interested in building machine learning systems whose decisions can be interpreted, verified, and trusted.
+I am currently a Ph.D. student in Computer Science at Florida International University, supervised by [Prof. Dongsheng Luo](https://scholar.google.com/citations?user=6Ih5XVkAAAAJ&hl=en) and [Prof. Mo Sha](https://scholar.google.com/citations?user=hVZiQDQAAAAJ&hl=en&oi=ao). I also collaborate closely with [Prof. Jingchao Ni](https://scholar.google.com/citations?user=rH9MTZMAAAAJ&hl=en). My research lies at the intersection of explainable AI, graph machine learning, and time-series intelligence. More broadly, I am interested in building machine learning systems whose decisions can be interpreted, verified, and trusted.
 
 My recent work studies:
 - faithful explanation methods for graph neural networks,
