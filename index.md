@@ -94,4 +94,4 @@ Program Committee: ICML 2025, AAAI 2026, WWW 2026.
 ---
 
 ## Beyond Research
-Outside of research, I enjoy going to concerts, watching TV shows, and traveling. I am always happy to connect with people who are interested in machine learning, explainability, and trustworthy AI.
+Outside of research, I enjoy going to concerts (I’m excited to see Bruno Mars and Ed Sheeran soon), watching TV shows (currently The Pitt), and traveling (especially hiking in U.S. national parks). I am always happy to connect with people interested in machine learning, explainability, and trustworthy AI.
