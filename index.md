@@ -27,7 +27,7 @@ My recent work studies:
 
 ## Selected Publications
 
-**Addressing Distribution Shift in Explanations for Graph Neural Networks.**
+**Addressing Distribution Shift in Explanations for Graph Neural Networks.** \
 <u>Zhuomin Chen</u>, Hojat Allah Salehi, Esteban Schafir, Xu Zheng, Jiaxing Zhang, Hua Wei, Jingchao Ni, Farhad Shirani, Dongsheng Luo.
 Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
 
