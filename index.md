@@ -1,5 +1,5 @@
 
-<img src="./images/profile_picture.jpeg" alt="Profile Photo" width="550">
+<img src="./images/profile_picture.jpeg" alt="Profile Photo" width="350">
 
 # Zhuomin Chen
 
@@ -27,24 +27,28 @@ My recent work studies:
 
 ## Selected Publications
 
+**Addressing Distribution Shift in Explanations for Graph Neural Networks.**
+<u>Zhuomin Chen</u>, Hojat Allah Salehi, Esteban Schafir, Xu Zheng, Jiaxing Zhang, Hua Wei, Jingchao Ni, Farhad Shirani, Dongsheng Luo.
+Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
+
 **Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning.**  
-<u>Zhuomin Chen</u>, Jiachen Ni, Hanieh Salehi, Xiaohui Zheng, et al.  
+<u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, Xu Zheng, Esteban Schafir, Farhad Shirani, Dongsheng Luo.
 *AAAI 2026.*
 
 **F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI.**  
-Xiaohui Zheng, Fateme Shirani, <u>Zhuomin Chen</u>, et al.  
+Xu Zheng, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo  
 *ICLR 2025.*
 
 **Generating In-Distribution Proxy Graphs for Explainable Graph Neural Networks.**  
-<u>Zhuomin Chen</u>, Jiying Zhang, Jiachen Ni, et al.  
+<u>Zhuomin Chen</u>, Jiaxing Zhang, Jingchao Ni, Xiaoting Li, Yuchen Bian, Md Mezbahul Islam, Ananda Mohan Mondal, Hua Wei, Dongsheng Luo 
 *ICML 2024.*
 
 **RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task.**  
-Jiying Zhang, <u>Zhuomin Chen</u>, et al.  
+Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei  
 *NeurIPS 2024.*
 
 **TimeX++: Learning Time-Series Explanations with Information Bottleneck.**  
-Zhuoning Liu, Tianjiao Wang, Jianshi Shi, Xiaohui Zheng, <u>Zhuomin Chen</u>, et al.  
+Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, <u>Zhuomin Chen</u>, Lei Song, Wenqian Dong, Jayantha Obeysekera, Farhad Shirani, Dongsheng Luo 
 *ICML 2024.*
 
 [See full publication list on Google Scholar](https://scholar.google.com/citations?user=AICXb3IAAAAJ&hl=en&oi=ao)
@@ -63,15 +67,13 @@ Zhuoning Liu, Tianjiao Wang, Jianshi Shi, Xiaohui Zheng, <u>Zhuomin Chen</u>, et
 
 - [2025] Towards Structurally Explainable Machine-Generated Text Detection: A Graph-Perspective Framework.  [[link](https://arxiv.org/pdf/2505.12507)]
 
-- [2025] Addressing Distribution Shift in Explanations for Graph Neural Networks. 
-
 - [2025] Uncovering Insights of Compound Flooding with Data-Driven AI.  [[link]()]
 
 ---
 
 ## Professional Service
 
-Reviewer for ICML, NeurIPS, ICLR, KDD, WWW, AAAI, ICDM, PAKDD, and journals including TKDE, TAI, TKDD, TMI, TBD, TNNLS, Expert Systems, and T-IFS.
+Reviewer for ICML, NeurIPS, ICLR, KDD, WWW, AAAI, ICDM, PAKDD, and journals including TPAMI, TKDE, TAI, TKDD, TMI, TBD, TNNLS, Expert Systems, and T-IFS.
 
 Program Committee: ICML 2025, AAAI 2026, WWW 2026.
 
