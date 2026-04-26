@@ -28,27 +28,27 @@ My recent work studies:
 ## Selected Publications
 
 **Addressing Distribution Shift in Explanations for Graph Neural Networks.** \
-<u>Zhuomin Chen</u>, Hojat Allah Salehi, Esteban Schafir, Xu Zheng, Jiaxing Zhang, Hua Wei, Jingchao Ni, Farhad Shirani, Dongsheng Luo.
+<u>Zhuomin Chen</u>, Hojat Allah Salehi, Esteban Schafir, Xu Zheng, Jiaxing Zhang, Hua Wei, Jingchao Ni, Farhad Shirani, Dongsheng Luo. \
 Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)*.
 
 **Explanation-Preserving Augmentation for Semi-Supervised Graph Representation Learning.**  
-<u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, Xu Zheng, Esteban Schafir, Farhad Shirani, Dongsheng Luo.
+<u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, Xu Zheng, Esteban Schafir, Farhad Shirani, Dongsheng Luo. \
 *AAAI 2026.*
 
 **F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI.**  
-Xu Zheng, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo  
+Xu Zheng, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo. \
 *ICLR 2025.*
 
 **Generating In-Distribution Proxy Graphs for Explainable Graph Neural Networks.**  
-<u>Zhuomin Chen</u>, Jiaxing Zhang, Jingchao Ni, Xiaoting Li, Yuchen Bian, Md Mezbahul Islam, Ananda Mohan Mondal, Hua Wei, Dongsheng Luo 
+<u>Zhuomin Chen</u>, Jiaxing Zhang, Jingchao Ni, Xiaoting Li, Yuchen Bian, Md Mezbahul Islam, Ananda Mohan Mondal, Hua Wei, Dongsheng Luo. \
 *ICML 2024.*
 
 **RegExplainer: Generating Explanations for Graph Neural Networks in Regression Task.**  
-Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei  
+Jiaxing Zhang, <u>Zhuomin Chen</u>, Hao Mei, Dongsheng Luo, Hua Wei. \
 *NeurIPS 2024.*
 
 **TimeX++: Learning Time-Series Explanations with Information Bottleneck.**  
-Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, <u>Zhuomin Chen</u>, Lei Song, Wenqian Dong, Jayantha Obeysekera, Farhad Shirani, Dongsheng Luo 
+Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, <u>Zhuomin Chen</u>, Lei Song, Wenqian Dong, Jayantha Obeysekera, Farhad Shirani, Dongsheng Luo.  
 *ICML 2024.*
 
 [See full publication list on Google Scholar](https://scholar.google.com/citations?user=AICXb3IAAAAJ&hl=en&oi=ao)
