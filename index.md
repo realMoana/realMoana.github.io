@@ -8,7 +8,7 @@ Ph.D. Student in Computer Science, Florida International University
 I work on explainable and trustworthy machine learning, with a focus on graph learning, time series modeling, and multimodal reasoning. My research aims to develop faithful explanation methods and evaluation frameworks that make modern AI systems more transparent, reliable, and accountable in high-stakes settings.
 
 **Email:** zchen051@fiu.edu  
-**GitHub:** [realMoana](https://github.com/realMoana)
+**GitHub:** [realMoana](https://github.com/realMoana)  
 **Google Scholar:** [Zhuomin Chen](https://scholar.google.com/citations?user=AICXb3IAAAAJ&hl=en&oi=ao)
 
 ---
