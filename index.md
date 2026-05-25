@@ -37,6 +37,10 @@ Accepted by *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPA
 <u>Zhuomin Chen</u>, Jingchao Ni, Hojat Allah Salehi, Xu Zheng, Esteban Schafir, Farhad Shirani, Dongsheng Luo. \
 *AAAI 2026.*
 
+**Uncovering Insights of Compound Flooding with Data-Driven AI.** \
+Xu Zheng, Chaohao Lin, Sipeng Chen, <u>Zhuomin Chen</u>, Jimeng Shi, Jayantha Obeysekera, Jingchao Ni, Wei Cheng, Jason Liu, Dongsheng Luo. \
+*KDD AI4Sciences Track, 2026.*
+
 **F-Fidelity: A Robust Framework for Faithfulness Evaluation of Explainable AI.**  
 Xu Zheng, Farhad Shirani, <u>Zhuomin Chen</u>, Chaohao Lin, Wei Cheng, Wenbo Guo, Dongsheng Luo. \
 *ICLR 2025.*
@@ -68,8 +72,6 @@ Zichuan Liu, Tianchun Wang, Jimeng Shi, Xu Zheng, <u>Zhuomin Chen</u>, Lei Song,
 - [2025] Robust Surrogate Modeling for Explanation-Induced Out-of-Distribution Shift in GNNs.  [[link](https://arxiv.org/pdf/2508.01925)]
 
 - [2025] Towards Structurally Explainable Machine-Generated Text Detection: A Graph-Perspective Framework.  [[link](https://arxiv.org/pdf/2505.12507)]
-
-- [2025] Uncovering Insights of Compound Flooding with Data-Driven AI.  [[link]()]
 
 ---
 
