@@ -18,6 +18,7 @@
         <a href="#news">Recent News</a>
         <a href="#preprints">Preprints</a>
         <a href="#publications">Publications</a>
+        <a href="#open-source">Open Source</a>
         <a href="#service">Service</a>
         <a href="#mentoring">Mentoring</a>
         <a href="#teaching">Teaching</a>
@@ -66,6 +67,7 @@
         </div>
         <div class="section-body">
           <ul class="plain-list compact-list">
+            <li><strong>Nov. 2026</strong> Two reliability fixes for llama.cpp's Apple Metal backend were merged upstream.</li>
             <li><strong>Oct. 2026</strong> Received the NeurIPS 2026 Financial Assistance Award.</li>
             <li><strong>Oct. 2026</strong> One paper accepted to NeurIPS 2026.</li>
             <li><strong>May. 2026</strong> One paper accepted to KDD 2026 AI4Sciences Track.</li>
@@ -211,6 +213,24 @@
           <p class="section-link">
             <a href="https://scholar.google.com/citations?user=AICXb3IAAAAJ&amp;hl=en&amp;oi=ao" target="_blank" rel="noreferrer">View full publication list on Google Scholar</a>
           </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="content-section" id="open-source">
+      <div class="container section-grid">
+        <div class="section-heading">
+          <h3>Open-Source Contributions</h3>
+        </div>
+        <div class="section-body">
+          <article class="paper-item">
+            <h4><a href="https://github.com/ggml-org/llama.cpp" target="_blank" rel="noreferrer">llama.cpp Contributor</a></h4>
+            <p>Contributed upstream reliability fixes to llama.cpp's Apple Metal backend:</p>
+            <ul class="plain-list compact-list">
+              <li>Prevented out-of-bounds reads in the <code>SOLVE_TRI</code> kernel and added regression tests. <a href="https://github.com/ggml-org/llama.cpp/pull/32103" target="_blank" rel="noreferrer">Merged PR #32103</a></li>
+              <li>Prevented out-of-bounds scratch-buffer writes in the flash-attention vector kernel. <a href="https://github.com/ggml-org/llama.cpp/pull/31662" target="_blank" rel="noreferrer">Merged PR #31662</a></li>
+            </ul>
+          </article>
         </div>
       </div>
     </section>
