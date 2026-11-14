@@ -287,14 +287,58 @@ img {
   margin-top: 0.8rem;
 }
 
+.news-scroll-wrap {
+  --news-scroll-track: #eee5f2;
+  --news-scroll-thumb: #af91be;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 0.75rem;
+  gap: 0.75rem;
+}
+
 .news-scroll {
   height: 12rem;
-  overflow-y: scroll;
+  overflow-y: auto;
   overscroll-behavior: contain;
-  scrollbar-gutter: stable;
-  scrollbar-color: var(--accent) var(--accent-soft);
+  scrollbar-color: var(--news-scroll-thumb) var(--news-scroll-track);
   scrollbar-width: thin;
   padding-right: 0.5rem;
+}
+
+.news-scroll-wrap.has-scrollbar .news-scroll {
+  scrollbar-width: none;
+  padding-right: 0;
+}
+
+.news-scroll-wrap.has-scrollbar .news-scroll::-webkit-scrollbar {
+  display: none;
+}
+
+.news-scrollbar {
+  display: none;
+  position: relative;
+  height: 12rem;
+  background: var(--news-scroll-track);
+  border-radius: 5px;
+  cursor: pointer;
+  touch-action: none;
+}
+
+.has-scrollbar .news-scrollbar {
+  display: block;
+}
+
+.news-scrollbar-thumb {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 2rem;
+  background: var(--news-scroll-thumb);
+  border-radius: 5px;
+}
+
+.news-scrollbar:hover .news-scrollbar-thumb {
+  background: #9876aa;
 }
 
 .news-scroll::-webkit-scrollbar {
@@ -302,11 +346,11 @@ img {
 }
 
 .news-scroll::-webkit-scrollbar-track {
-  background: var(--accent-soft);
+  background: var(--news-scroll-track);
 }
 
 .news-scroll::-webkit-scrollbar-thumb {
-  background: var(--accent);
+  background: var(--news-scroll-thumb);
   border-radius: 4px;
 }
 
