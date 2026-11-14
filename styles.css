@@ -88,6 +88,8 @@ img {
 .site-nav a:focus-visible,
 .profile-links a:hover,
 .profile-links a:focus-visible,
+.paper-item h4 a:hover,
+.paper-item h4 a:focus-visible,
 .section-link a:hover,
 .section-link a:focus-visible,
 .plain-list a:hover,
@@ -251,6 +253,10 @@ img {
   line-height: 1.35;
 }
 
+.paper-item h4 a {
+  text-decoration: none;
+}
+
 .paper-item p {
   margin: 0.3rem 0;
 }
@@ -258,6 +264,17 @@ img {
 .paper-meta,
 .list-year {
   color: var(--muted);
+}
+
+.section-intro {
+  margin: 0 0 1.3rem;
+  color: var(--muted);
+}
+
+.author-note {
+  margin: 0 0 1.3rem;
+  color: var(--muted);
+  font-size: 0.95rem;
 }
 
 .list-year {
@@ -268,6 +285,46 @@ img {
 
 .compact-list {
   margin-top: 0.8rem;
+}
+
+.news-scroll {
+  height: 12rem;
+  overflow-y: scroll;
+  overscroll-behavior: contain;
+  scrollbar-gutter: stable;
+  scrollbar-color: var(--accent) var(--accent-soft);
+  scrollbar-width: thin;
+  padding-right: 0.5rem;
+}
+
+.news-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.news-scroll::-webkit-scrollbar-track {
+  background: var(--accent-soft);
+}
+
+.news-scroll::-webkit-scrollbar-thumb {
+  background: var(--accent);
+  border-radius: 4px;
+}
+
+.news-scroll:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 4px;
+}
+
+.news-scroll .plain-list {
+  margin: 0;
+}
+
+.news-scroll li {
+  margin-bottom: 0.4rem;
+}
+
+.news-scroll li:last-child {
+  margin-bottom: 0;
 }
 
 .section-link {
